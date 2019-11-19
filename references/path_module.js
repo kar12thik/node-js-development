@@ -16,7 +16,7 @@ console.log(path.dirname(__filename));
 console.log(path.extname(__filename));
 //.js
 
-//Create oath object
+//Create path object
 console.log(path.parse(__filename));
 // {
   //   root: 'E:\\',
